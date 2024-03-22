@@ -1,3 +1,5 @@
+// Copyright 2024 Rodrigo Moraes
+
 #include "include/spacing.h"
 #include <iostream>
 
